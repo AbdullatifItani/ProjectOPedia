@@ -1,0 +1,2 @@
+To run Travelopedia Run JSON Server
+npx json-server data/traveldb.json --port 5001

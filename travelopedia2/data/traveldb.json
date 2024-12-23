@@ -1,0 +1,16 @@
+{
+  "destination": [
+    {
+      "id": 39.81156208376094,
+      "city": "Beirut",
+      "country": "Lebanon",
+      "daysNeeded": 1
+    },
+    {
+      "id": 82.32044136727143,
+      "city": "Istanbul",
+      "country": "Turkey",
+      "daysNeeded": 1
+    }
+  ]
+}
